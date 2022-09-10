@@ -192,6 +192,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-gts7xllite \
 	treble-overlay-samsung-gts8p \
 	treble-overlay-samsung-j6 \
+	treble-overlay-samsung-m21s \
 	treble-overlay-samsung-m31 \
 	treble-overlay-samsung-m31-systemui \
 	treble-overlay-samsung-m31s \
